@@ -1,0 +1,62 @@
+C:\Users\orkun\Documents\Visual Studio 2008\Projects\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.exe
+C:\Users\orkun\Documents\Visual Studio 2008\Projects\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.pdb
+C:\Users\orkun\Documents\Visual Studio 2008\Projects\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\orkun\Documents\Visual Studio 2008\Projects\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Form1.resources
+C:\Users\orkun\Documents\Visual Studio 2008\Projects\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Properties.Resources.resources
+C:\Users\orkun\Documents\Visual Studio 2008\Projects\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.csproj.GenerateResource.Cache
+C:\Users\orkun\Documents\Visual Studio 2008\Projects\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.exe
+C:\Users\orkun\Documents\Visual Studio 2008\Projects\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.pdb
+C:\Documents and Settings\bsogrenci\Desktop\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.exe
+C:\Documents and Settings\bsogrenci\Desktop\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.pdb
+C:\Documents and Settings\antmen\Desktop\Yeni Klasör (3)\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.exe
+C:\Documents and Settings\antmen\Desktop\Yeni Klasör (3)\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.pdb
+C:\Documents and Settings\antmen\Desktop\Yeni Klasör (3)\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.exe
+C:\Documents and Settings\antmen\Desktop\Yeni Klasör (3)\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.pdb
+C:\Documents and Settings\antmen\Desktop\Yeni Klasör (3)\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\antmen\Desktop\Yeni Klasör (3)\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Form1.resources
+C:\Documents and Settings\antmen\Desktop\Yeni Klasör (3)\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Properties.Resources.resources
+C:\Documents and Settings\antmen\Desktop\Yeni Klasör (3)\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.csproj.GenerateResource.Cache
+C:\Documents and Settings\antmen\Desktop\Yeni Klasör (3)\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Form2.resources
+C:\Users\orkun\Desktop\WindowsFormsApplication54\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.exe
+C:\Users\orkun\Desktop\WindowsFormsApplication54\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.pdb
+C:\Users\orkun\Desktop\WindowsFormsApplication54\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.exe
+C:\Users\orkun\Desktop\WindowsFormsApplication54\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.pdb
+C:\Users\orkun\Desktop\WindowsFormsApplication54\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\orkun\Desktop\WindowsFormsApplication54\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Form1.resources
+C:\Users\orkun\Desktop\WindowsFormsApplication54\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Form2.resources
+C:\Users\orkun\Desktop\WindowsFormsApplication54\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Properties.Resources.resources
+C:\Users\orkun\Desktop\WindowsFormsApplication54\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.csproj.GenerateResource.Cache
+C:\Documents and Settings\antmen\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.exe
+C:\Documents and Settings\antmen\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.pdb
+C:\Documents and Settings\antmen\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.exe
+C:\Documents and Settings\antmen\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.pdb
+C:\Documents and Settings\antmen\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\antmen\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Form1.resources
+C:\Documents and Settings\antmen\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Form2.resources
+C:\Documents and Settings\antmen\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Properties.Resources.resources
+C:\Documents and Settings\antmen\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.csproj.GenerateResource.Cache
+C:\Users\orkun\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.exe
+C:\Users\orkun\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.pdb
+C:\Users\orkun\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.exe
+C:\Users\orkun\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.pdb
+C:\Users\orkun\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\orkun\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Form1.resources
+C:\Users\orkun\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Form2.resources
+C:\Users\orkun\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Properties.Resources.resources
+C:\Users\orkun\Desktop\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.csproj.GenerateResource.Cache
+C:\Users\orkun\Desktop\odevler\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.exe
+C:\Users\orkun\Desktop\odevler\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.pdb
+C:\Users\orkun\Desktop\odevler\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.exe
+C:\Users\orkun\Desktop\odevler\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.pdb
+C:\Users\orkun\Desktop\odevler\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\orkun\Desktop\odevler\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Form2.resources
+C:\Users\orkun\Desktop\odevler\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Properties.Resources.resources
+C:\Users\orkun\Desktop\odevler\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.csproj.GenerateResource.Cache
+D:\yazılım\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.exe
+D:\yazılım\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\bin\Debug\WindowsFormsApplication54.pdb
+D:\yazılım\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.csprojResolveAssemblyReference.cache
+D:\yazılım\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Form2.resources
+D:\yazılım\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.Properties.Resources.resources
+D:\yazılım\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.csproj.GenerateResource.Cache
+D:\yazılım\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.exe
+D:\yazılım\adonet_ödev\WindowsFormsApplication54\WindowsFormsApplication54\obj\Debug\WindowsFormsApplication54.pdb
